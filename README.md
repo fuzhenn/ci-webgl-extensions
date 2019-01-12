@@ -6,19 +6,21 @@ This is to print out supported webgl extensions on CI services such as circleCI,
 
 ## 2019-01-12
 
-* circleCI
-```js
-count : 24
-["ANGLE_instanced_arrays","EXT_blend_minmax","EXT_color_buffer_half_float","EXT_frag_depth","EXT_shader_texture_lod","EXT_sRGB","OES_element_index_uint","OES_standard_derivatives","OES_texture_float","OES_texture_float_linear","OES_texture_half_float","OES_texture_half_float_linear","OES_vertex_array_object","WEBGL_color_buffer_float","WEBGL_compressed_texture_s3tc","WEBKIT_WEBGL_compressed_texture_s3tc","WEBGL_compressed_texture_s3tc_srgb","WEBGL_debug_renderer_info","WEBGL_debug_shaders","WEBGL_depth_texture","WEBKIT_WEBGL_depth_texture","WEBGL_draw_buffers","WEBGL_lose_context","WEBKIT_WEBGL_lose_context"]
-```
-* appveyor
-```js
-count : 26
-["ANGLE_instanced_arrays","EXT_blend_minmax","EXT_color_buffer_half_float","EXT_frag_depth","EXT_shader_texture_lod","EXT_texture_filter_anisotropic","WEBKIT_EXT_texture_filter_anisotropic","EXT_sRGB","OES_element_index_uint","OES_standard_derivatives","OES_texture_float","OES_texture_float_linear","OES_texture_half_float","OES_texture_half_float_linear","OES_vertex_array_object","WEBGL_color_buffer_float","WEBGL_compressed_texture_s3tc","WEBKIT_WEBGL_compressed_texture_s3tc","WEBGL_compressed_texture_s3tc_srgb","WEBGL_debug_renderer_info","WEBGL_debug_shaders","WEBGL_depth_texture","WEBKIT_WEBGL_depth_texture","WEBGL_draw_buffers","WEBGL_lose_context","WEBKIT_WEBGL_lose_context"]
-```
+### circleCI
 
-* travisCI
-```js
+count : 24
+
+`ANGLE_instanced_arrays`,`EXT_blend_minmax`,`EXT_color_buffer_half_float`,`EXT_frag_depth`,`EXT_shader_texture_lod`,`EXT_sRGB`,`OES_element_index_uint`,`OES_standard_derivatives`,`OES_texture_float`,`OES_texture_float_linear`,`OES_texture_half_float`,`OES_texture_half_float_linear`,`OES_vertex_array_object`,`WEBGL_color_buffer_float`,`WEBGL_compressed_texture_s3tc`,`WEBKIT_WEBGL_compressed_texture_s3tc`,`WEBGL_compressed_texture_s3tc_srgb`,`WEBGL_debug_renderer_info`,`WEBGL_debug_shaders`,`WEBGL_depth_texture`,`WEBKIT_WEBGL_depth_texture`,`WEBGL_draw_buffers`,`WEBGL_lose_context`,`WEBKIT_WEBGL_lose_context`
+
+### appveyor
+
+count : 26
+
+`ANGLE_instanced_arrays`,`EXT_blend_minmax`,`EXT_color_buffer_half_float`,`EXT_frag_depth`,`EXT_shader_texture_lod`,`EXT_texture_filter_anisotropic`,`WEBKIT_EXT_texture_filter_anisotropic`,`EXT_sRGB`,`OES_element_index_uint`,`OES_standard_derivatives`,`OES_texture_float`,`OES_texture_float_linear`,`OES_texture_half_float`,`OES_texture_half_float_linear`,`OES_vertex_array_object`,`WEBGL_color_buffer_float`,`WEBGL_compressed_texture_s3tc`,`WEBKIT_WEBGL_compressed_texture_s3tc`,`WEBGL_compressed_texture_s3tc_srgb`,`WEBGL_debug_renderer_info`,`WEBGL_debug_shaders`,`WEBGL_depth_texture`,`WEBKIT_WEBGL_depth_texture`,`WEBGL_draw_buffers`,`WEBGL_lose_context`,`WEBKIT_WEBGL_lose_context`
+
+
+### travisCI
+
 count :  23
-["ANGLE_instanced_arrays","EXT_blend_minmax","EXT_frag_depth","EXT_shader_texture_lod","EXT_sRGB","OES_element_index_uint","OES_standard_derivatives","OES_texture_float","OES_texture_float_linear","OES_texture_half_float","OES_texture_half_float_linear","OES_vertex_array_object","WEBGL_color_buffer_float","WEBGL_compressed_texture_s3tc","WEBKIT_WEBGL_compressed_texture_s3tc","WEBGL_compressed_texture_s3tc_srgb","WEBGL_debug_renderer_info","WEBGL_debug_shaders","WEBGL_depth_texture","WEBKIT_WEBGL_depth_texture","WEBGL_draw_buffers","WEBGL_lose_context","WEBKIT_WEBGL_lose_context"]
-```
+
+`ANGLE_instanced_arrays`,`EXT_blend_minmax`,`EXT_frag_depth`,`EXT_shader_texture_lod`,`EXT_sRGB`,`OES_element_index_uint`,`OES_standard_derivatives`,`OES_texture_float`,`OES_texture_float_linear`,`OES_texture_half_float`,`OES_texture_half_float_linear`,`OES_vertex_array_object`,`WEBGL_color_buffer_float`,`WEBGL_compressed_texture_s3tc`,`WEBKIT_WEBGL_compressed_texture_s3tc`,`WEBGL_compressed_texture_s3tc_srgb`,`WEBGL_debug_renderer_info`,`WEBGL_debug_shaders`,`WEBGL_depth_texture`,`WEBKIT_WEBGL_depth_texture`,`WEBGL_draw_buffers`,`WEBGL_lose_context`,`WEBKIT_WEBGL_lose_context`
