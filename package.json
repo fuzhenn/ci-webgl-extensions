@@ -1,0 +1,23 @@
+{
+  "name": "webgl-extensions",
+  "version": "1.0.0",
+  "description": "webgl extensions test for ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron-mocha --require-main ./ci-env.js --renderer \"./index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuzhenn/webgl-extensions.git"
+  },
+  "author": "fuzhenn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuzhenn/webgl-extensions/issues"
+  },
+  "homepage": "https://github.com/fuzhenn/webgl-extensions#readme",
+  "devDependencies": {
+    "electron": "^4.0.1",
+    "electron-mocha": "^6.0.4"
+  }
+}
