@@ -2,7 +2,9 @@ describe('main', () => {
     it('extensions', () => {
         const canvas = document.createElement('canvas');
         const gl = getGLContext(canvas);
-        console.log(JSON.stringify(gl.getSupportedExtensions()));
+        const extensions = gl.getSupportedExtensions();
+        console.log('count : ', extensions.length);
+        console.log(JSON.stringify(extensions));
     });
 });
 
