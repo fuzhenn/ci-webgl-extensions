@@ -1,6 +1,6 @@
 # WebGL Extensions Test for CI Services
 
-[![Circle CI](https://circleci.com/gh/fuzhenn/webgl-extensions.svg?style=shield)](https://circleci.com/gh/fuzhenn/webgl-extensions) [![Build status](https://ci.appveyor.com/api/projects/status/oe3t4yryw7vdlxee?svg=true)](https://ci.appveyor.com/project/fuzhenn/webgl-extensions) [![Build Status](https://travis-ci.org/fuzhenn/webgl-extensions.svg?branch=master)](https://travis-ci.org/fuzhenn/webgl-extensions)
+[![Circle CI](https://circleci.com/gh/fuzhenn/webgl-extensions.svg?style=shield)](https://circleci.com/gh/fuzhenn/webgl-extensions) [![Build status](https://ci.appveyor.com/api/projects/status/oe3t4yryw7vdlxee?svg=true)](https://ci.appveyor.com/project/fuzhenn/webgl-extensions) [![Build Status](https://travis-ci.org/fuzhenn/ci-webgl-extensions.svg?branch=master)](https://travis-ci.org/fuzhenn/ci-webgl-extensions)
 
 This is to print out supported webgl extensions on CI services such as circleCI, travisCI and appveyor.
 
